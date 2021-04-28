@@ -17,3 +17,5 @@ because a word can belong to two or more languages.
 
 Here, we present a contribution. What [this repository in particular focuses on is in words only in English.](https://github.com/labcontrol-data/covid19_twitter/tree/main/dailies) Besides, the [list of English words here](https://github.com/labcontrol-data/covid19_twitter/tree/main/dailies) considers all the words that have appeared more than twenty times in the Twitter posts. For this reason, some lists contains more than ten thousand words, [see here.](https://github.com/labcontrol-data/covid19_twitter/tree/main/dailies/2020-03-24)
 In summary, this repository aims to expand the one provided by [Dr. Juan M. Banda and colleagues.](https://github.com/thepanacealab/covid19_twitter) If you wish to cite this repository, please cite the repository of [Dr instead. Juan M. Banda and colleagues](https://github.com/thepanacealab/covid19_twitter) because they are the ones worthy to receive credit.
+
+For more details, you can contact the Scientific Director of Labcontrol, [Prof. Dr. Alessandro N. Vargas.](http://www.anvargas.com)
