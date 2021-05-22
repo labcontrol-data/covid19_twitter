@@ -13,7 +13,7 @@ This repository provides a subset of data extracted from [the Covid-19 Twitter c
 
 [The repository maintained by Dr. Juan M. Banda and colleagues](https://github.com/thepanacealab/covid19_twitter)  presents a daily list containing the top 1000 most common words in the Twitter posts. This list includes words in all languages, a fact that complicates the analysis because a word can belong to two or more languages simultaneously. 
 
-Here, we present a simple contribution. Instead of the top 1000 most common words in all languages, we provide here the top 2000 most common words in English only. We also present a list of negative words along with the frequency of their occurrences. This list of negative words is shown on a daily basis. The list of negative words allows us to see how the negativity has changed during the Covid-19 pandemic.
+Here, we present a minor contribution. Instead of the top 1000 most common words in all languages, we provide here the top 2000 most common words in English only. We also present a list of negative words along with the frequency of their occurrences. This list of negative words is shown on a daily basis. The list of negative words allows us to see how the negativity has changed during the Covid-19 pandemic.
 
 This repository looks at particular properties of the main repository provided by [Dr. Juan M. Banda and colleagues.](https://github.com/thepanacealab/covid19_twitter) If you wish to cite a repository in your research, please cite the original repository [Dr. Juan M. Banda and colleagues](https://github.com/thepanacealab/covid19_twitter). They have shared all the source code and all the Twitter data; they are the ones worthy to receive credit.
 
